@@ -3,7 +3,7 @@
 
 This project involves the creation of an interactive Vehicle Crash Analysis dashboard using Tableau for visualization and SQL for data processing. The dashboard provides insights into various aspects of vehicle crashes, including total accidents, casualties, and factors contributing to serious casualties.
 
-### [Click here to view analysis](https://public.tableau.com/app/profile/prachi.prachi8360/viz/shared/7MJS3WDXG)
+### [Click here to view dashboard](https://public.tableau.com/app/profile/prachi.prachi8360/viz/shared/7MJS3WDXG)
 
 ## Features
 
